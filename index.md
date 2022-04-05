@@ -14,7 +14,7 @@
 
 ### Currently working on
 1.  Building a web-based crypto-currency (Ethereum) wallet.
-2.  Natural Language Processing project, as part of the NLP courses. 
+2.  Personality Type Classification using Recurrent Neural Networks, as part of the Natural Language Processing course.
 
 
 
