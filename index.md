@@ -5,7 +5,13 @@
 
 ### [Crawler application](https://github.com/michaellai93708/Crawler_web_app)
   This web-based application was built utilizing Beautifulsoup, Selenium package in Python and the Django framework. The main goal for this project was to create a website that could showcase all news regarding intelligent city construction and an application that could automatically gather government public tendering information regarding intelligent city construction and output the data in Microsoft Excel format. 
-  
+
+## Group Project
+### [Substance Abuse Prediction Base on Drug Use and Demographics](https://github.com/michaellai93708/Substance_Abuse_Prediction)
+   This group project was part of the statistics course. The project used the National Survey on Drug Use and Health data to predict if a given individual would encounter a substance abuse problem. Due to the heavily imbalanced data, SMOTE was used to balance the data. In the end, by using SMOTE, SVM and logistic regression, we managed to reach a recall rate of 70%.
+
+
+
 ### Currently working on
 1.  Building a web-based crypto-currency (Ethereum) wallet.
 2.  Natural Language Processing project, as part of the NLP courses. 
