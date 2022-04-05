@@ -8,7 +8,7 @@
 
 ## Group Project
 ### [Substance Abuse Prediction Base on Drug Use and Demographics](https://github.com/michaellai93708/Substance_Abuse_Prediction)
-   This group project was part of the statistics course. The project used the National Survey on Drug Use and Health data to predict if a given individual would encounter a substance abuse problem. Due to the heavily imbalanced data, SMOTE was used to balance the data. In the end, by using SMOTE, SVM and logistic regression, we managed to reach a recall rate of 70%.
+   This group project was part of the statistics course. The project used the National Survey on Drug Use and Health data to predict if a given individual would encounter a substance abuse problem. Due to the heavily imbalanced data, SMOTE was used to balance the data. By using SMOTE, SVM and logistic regression, we managed to reach a recall rate of 70%.
 
 
 
