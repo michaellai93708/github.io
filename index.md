@@ -6,6 +6,11 @@
 ### [Crawler application](https://github.com/michaellai93708/Crawler_web_app)
   This web-based application was built utilizing Beautifulsoup, Selenium package in Python and the Django framework. The main goal for this project was to create a website that could showcase all news regarding intelligent city construction and an application that could automatically gather government public tendering information regarding intelligent city construction and output the data in Microsoft Excel format. 
 
+### [Space Titanic (Kaggle Competition)](https://github.com/michaellai93708/Space_Titanic/blob/main/README.md)
+   This project is part of a [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic/overview). The model trained with Ligthgbm achieved the highest accuracy, 79.89%, top 30% of all participating teams. For comparison only, the best model on Kagge has an accuracy of 83.1%. Label encoding and null value imputation techniques were used to pre-process the data, and a grid search was also performed for the hyperparameter tuning purpose.
+
+
+
 ## Group Project
 ### [Substance Abuse Prediction Base on Drug Use and Demographics](https://github.com/michaellai93708/Substance_Abuse_Prediction)
    This group project was part of the statistics course. The project used the National Survey on Drug Use and Health data to predict if a given individual would encounter a substance abuse problem. Due to the heavily imbalanced data, SMOTE was used to balance the data. By using SMOTE, SVM and logistic regression, we managed to reach a recall rate of 70%.
