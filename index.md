@@ -9,7 +9,8 @@
 ### [Space Titanic (Kaggle Competition)](https://github.com/michaellai93708/Space_Titanic/blob/main/README.md)
    This project is part of a [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic/overview). The model trained with Ligthgbm achieved the highest accuracy, 79.89%, top 30% of all participating teams. For comparison only, the best model on Kagge has an accuracy of 83.1%. Label encoding and null value imputation techniques were used to pre-process the data, and a grid search was also performed for the hyperparameter tuning purpose.
 
-
+### [Personality Type Classification using Recurrent Neural Networks](https://github.com/michaellai93708/NLP_Personality_Classfication)
+This is my first NLP project, and a set of MBTI-related tweet data was used. The main goal of this project is to determine the author's personality of a given tweet. A Bi-LSTM model was built to tackle the task.
 
 ## Group Project
 ### [Substance Abuse Prediction Base on Drug Use and Demographics](https://github.com/michaellai93708/Substance_Abuse_Prediction)
@@ -19,7 +20,6 @@
 
 ### Currently working on
 1.  Building a web-based crypto-currency (Ethereum) wallet.
-2.  Personality Type Classification using Recurrent Neural Networks, as part of the Natural Language Processing course.
 
 
 
